@@ -1,0 +1,21 @@
+Trigram,Frequency
+"('escala', 'probabilidade', 'recomendar')",4
+"('atendimento', 'administrativo', 'financeiro')",4
+"('satisfação', 'implantação', 'software')",3
+"('atendimento', 'agente', 'suporte')",2
+"('custo', 'valor', 'produtos')",2
+"('valor', 'produtos', 'contratados')",2
+"('referente', 'negociações', 'precisem')",2
+"('sistema', 'benefício', 'experiência')",2
+"('benefício', 'experiência', 'atualização')",2
+"('experiência', 'atualização', 'software')",2
+"('perguntas', 'comentário', 'final')",2
+"('agradeço', 'ótimo', 'trabalho')",2
+"('vou', 'confirmar', 'final')",2
+"('probabilidade', 'recomendar', 'totus')",2
+"('geral', 'suporte', 'técnico')",2
+"('suporte', 'técnico', 'agilidade')",2
+"('técnico', 'agilidade', 'processos')",2
+"('atendimento', 'agentes', 'atendimento')",2
+"('atendimento', 'agentes', 'suporte')",2
+"('comercial', 'executivo', 'vendas')",2
