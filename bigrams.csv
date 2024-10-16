@@ -1,0 +1,21 @@
+Bigram,Frequency
+"('suporte', 'técnico')",6
+"('entrega', 'entrega')",6
+"('probabilidade', 'recomendar')",5
+"('executivo', 'vendas')",4
+"('produtos', 'contratados')",4
+"('escala', 'probabilidade')",4
+"('agilidade', 'processos')",4
+"('atendimento', 'agentes')",4
+"('atendimento', 'administrativo')",4
+"('administrativo', 'financeiro')",4
+"('pontos', 'específicos')",3
+"('relação', 'atendimento')",3
+"('satisfação', 'implantação')",3
+"('implantação', 'software')",3
+"('entrega', 'benefício')",3
+"('atualização', 'software')",3
+"('comentário', 'final')",3
+"('nove', 'certo')",3
+"('saber', 'experiência')",2
+"('rápido', 'acompanhamento')",2
